@@ -9,7 +9,7 @@
 
 ## Sandbox
 
-- [ ] [CodePen](https://codepen.io/)
+- [x] [CodePen](https://codepen.io/)
 - [ ] [CodeSandbox](https://codesandbox.io/)
 
 ## Editor
